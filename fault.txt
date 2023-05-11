@@ -1,0 +1,14 @@
+Optimal의 fault 수 : 324
+
+FIFO의 fault 수 : 438
+
+LIFO의 fault 수 : 438
+
+LRU의 fault 수 : 438
+
+LFU의 fault 수 : 429
+
+SC의 fault 수 : 440
+
+ESC의 fault 수 : 436
+
